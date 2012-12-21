@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TransAuth MK2</string>
+    <string name="empty"></string>
+    <string name="register">Registering</string>
+    <string name="ta_msg" formatted="false">Destination account number is: %s\nAmount to be transferred: %s\nPlease enter pin %s to verify transaction</string>
+    <string name="reg_id">Registration ID</string>
+    <string name="auth_title">Authentication Information</string>
+
+</resources>
